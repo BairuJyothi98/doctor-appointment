@@ -1,0 +1,26 @@
+
+
+body{
+background-image:url("test1.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+th,td
+    {
+      border:3px solid black;
+    }
+    
+    td
+    {
+      height:40px;
+    }
+    tr
+    {
+      
+      color:purple;
+    }
+    th
+    {
+      color:black;
+     
+    }
